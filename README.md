@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joabeteixeira
-- 👀 I’m Developer Web Frontend
+- 👀 I’m Developer Frontend Web
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, ReactJs
 - 📫 How to reach me novamutumjo@gmail.com
 
