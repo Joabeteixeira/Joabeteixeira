@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joabeteixeira
 - 👀 I’m Developer Frontend Web
 - 🌱 I’m currently learning JavaScript, HTML, CSS, ReactJs, Python
-- 📫 How to reach me novamutumjo@gmail.com
+
 
 <div style="display: flex" align-itens= "center" align="center" ><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
 
 <div>
     <a href="https://www.linkedin.com/in/joabe-teixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "novamutumjo@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "novamutumjo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
 
 <!---
