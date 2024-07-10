@@ -12,7 +12,11 @@
   <img align="center" alt="joabe-Python" height="30" width="40" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/python-2752092-2284909.png?f=webp&w=256">
 </div><br>
 
-  
+
+<div>
+    <a href="https://www.linkedin.com/in/joabe-teixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "novamutumjo@gmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>  
 
 <!---
 Joabeteixeira/Joabeteixeira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
